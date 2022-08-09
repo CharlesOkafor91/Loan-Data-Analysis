@@ -1,5 +1,5 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Data Exploration Of Prosper Loan Data
+## by Charles Okafor
 
 
 ## Dataset
